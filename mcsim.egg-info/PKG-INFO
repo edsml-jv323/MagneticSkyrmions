@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mcsim
+Version: 1.0.0
+Summary: A Python package for finding a magnetic skyrmion in a 2D lattice spins using the Metropolis algorithm
+Author: Jorge Veiras Yanes
+Author-email: jv323@ic.ac.uk
